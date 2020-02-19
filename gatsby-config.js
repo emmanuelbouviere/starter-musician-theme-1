@@ -20,7 +20,7 @@ module.exports = {
       options: {
         // These are default values that you can override
         // basePath: `/`,
-        // content: `content`,
+         content: `content_land`,
         // pwaName: null
       }
     }
